@@ -1,2 +1,4 @@
 # praccomp2026
 praccomp
+
+CHECKING GITHUB CREDENTIALS
